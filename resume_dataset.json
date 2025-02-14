@@ -149,4 +149,79 @@
         "instruction": "Modify this resume for a copywriter role.",
         "feedback": "Emphasize your ability to write persuasive content and your familiarity with marketing strategies. Include examples of successful campaigns."
     }
+    {
+        "resume_text": "Summary: Program manager with over 8 years of experience in leading cross-functional teams and managing multiple projects simultaneously. Skills: Agile, Scrum, Strategic Planning, Stakeholder Engagement, Risk Management. Experience: Program Manager at Global Solutions (2015-2023), overseeing large-scale initiatives and aligning project goals with organizational strategy. Education: M.B.A. from VWX University.",
+        "instruction": "Tailor this resume for a program manager role.",
+        "feedback": "Highlight your ability to manage multiple projects, align them with organizational goals, and engage stakeholders effectively. Emphasize strategic planning and leadership in complex environments."
+    },
+    {
+        "resume_text": "Summary: Software engineer with 5+ years of experience in full-stack development. Skills: JavaScript, Python, React, Node.js, AWS. Experience: Software Engineer at Tech Innovators (2018-2023). Education: B.S. in Computer Science from ABC University.",
+        "instruction": "Tailor this resume for a senior software engineer role.",
+        "feedback": "Emphasize your leadership in technical projects, mentorship of junior developers, and contributions to scalable systems. Include specific achievements like reducing system latency by 30%."
+    },
+    {
+        "resume_text": "Summary: Marketing specialist with 6 years of experience in digital marketing and brand strategy. Skills: SEO, PPC, Content Marketing, Data Analytics. Experience: Marketing Specialist at Creative Agency (2017-2023). Education: B.A. in Marketing from XYZ University.",
+        "instruction": "Tailor this resume for a digital marketing manager role.",
+        "feedback": "Focus on your experience managing large-scale campaigns, driving ROI, and leading marketing teams. Include metrics like a 50% increase in website traffic."
+    },
+    {
+        "resume_text": "Summary: Financial analyst with 7 years of experience in financial modeling and data analysis. Skills: Excel, SQL, Tableau, Financial Forecasting. Experience: Financial Analyst at Capital Corp (2016-2023). Education: M.S. in Finance from DEF University.",
+        "instruction": "Tailor this resume for a senior financial analyst role.",
+        "feedback": "Highlight your experience in leading financial planning processes, presenting insights to executives, and improving forecasting accuracy by 20%."
+    },
+    {
+        "resume_text": "Summary: HR professional with 8 years of experience in talent acquisition and employee engagement. Skills: Recruitment, Performance Management, HRIS, Compliance. Experience: HR Manager at People First Inc. (2015-2023). Education: B.A. in Human Resources from GHI University.",
+        "instruction": "Tailor this resume for an HR director role.",
+        "feedback": "Emphasize your leadership in developing HR strategies, improving employee retention by 25%, and managing large-scale organizational changes."
+    },
+    {
+        "resume_text": "Summary: Data scientist with 5 years of experience in machine learning and predictive analytics. Skills: Python, R, TensorFlow, Data Visualization. Experience: Data Scientist at DataWorks (2018-2023). Education: M.S. in Data Science from JKL University.",
+        "instruction": "Tailor this resume for a lead data scientist role.",
+        "feedback": "Focus on your experience leading data science teams, developing advanced models, and delivering actionable insights that increased revenue by 15%."
+    },
+    {
+        "resume_text": "Summary: Product manager with 6 years of experience in product lifecycle management. Skills: Product Roadmapping, UX Design, Market Research, Agile. Experience: Product Manager at InnovateTech (2017-2023). Education: B.S. in Business Administration from MNO University.",
+        "instruction": "Tailor this resume for a senior product manager role.",
+        "feedback": "Highlight your success in launching products that generated $10M+ in revenue and your ability to collaborate with cross-functional teams."
+    },
+    {
+        "resume_text": "Summary: Sales executive with 10 years of experience in B2B sales and account management. Skills: Negotiation, CRM, Sales Strategy, Client Relations. Experience: Sales Executive at SalesPro (2013-2023). Education: B.A. in Business from PQR University.",
+        "instruction": "Tailor this resume for a sales director role.",
+        "feedback": "Emphasize your leadership in driving sales teams, exceeding revenue targets by 30%, and building long-term client relationships."
+    },
+    {
+        "resume_text": "Summary: Graphic designer with 7 years of experience in branding and visual design. Skills: Adobe Creative Suite, UI/UX Design, Branding, Illustration. Experience: Graphic Designer at Design Studio (2016-2023). Education: B.F.A. in Graphic Design from STU University.",
+        "instruction": "Tailor this resume for a creative director role.",
+        "feedback": "Focus on your leadership in design teams, successful branding campaigns, and ability to align creative vision with business goals."
+    },
+    {
+        "resume_text": "Summary: Operations manager with 9 years of experience in supply chain and logistics. Skills: Process Optimization, Inventory Management, Lean Six Sigma. Experience: Operations Manager at Logistics Corp (2014-2023). Education: M.B.A. in Operations from UVW University.",
+        "instruction": "Tailor this resume for a director of operations role.",
+        "feedback": "Highlight your success in reducing operational costs by 20%, improving efficiency, and leading large teams."
+    },
+    {
+        "resume_text": "Summary: Cybersecurity analyst with 6 years of experience in threat detection and risk management. Skills: SIEM, Penetration Testing, Incident Response, Compliance. Experience: Cybersecurity Analyst at SecureTech (2017-2023). Education: M.S. in Cybersecurity from XYZ University.",
+        "instruction": "Tailor this resume for a cybersecurity manager role.",
+        "feedback": "Emphasize your leadership in security teams, successful incident response strategies, and reducing security breaches by 40%."
+    },
+    {
+        "resume_text": "Summary: Content writer with 5 years of experience in creating engaging digital content. Skills: SEO Writing, Blogging, Social Media, Copywriting. Experience: Content Writer at Media Agency (2018-2023). Education: B.A. in English from ABC University.",
+        "instruction": "Tailor this resume for a content marketing manager role.",
+        "feedback": "Focus on your ability to develop content strategies, increase organic traffic by 50%, and manage content teams."
+    },
+    {
+        "resume_text": "Summary: Customer success manager with 7 years of experience in client retention and support. Skills: CRM, Customer Onboarding, Account Management, Problem Solving. Experience: Customer Success Manager at SaaS Company (2016-2023). Education: B.S. in Business from DEF University.",
+        "instruction": "Tailor this resume for a director of customer success role.",
+        "feedback": "Highlight your leadership in improving customer retention rates by 25% and developing scalable support processes."
+    },
+    {
+        "resume_text": "Summary: UX designer with 6 years of experience in user research and interface design. Skills: Figma, Wireframing, Usability Testing, Prototyping. Experience: UX Designer at DesignWorks (2017-2023). Education: B.S. in Human-Computer Interaction from GHI University.",
+        "instruction": "Tailor this resume for a senior UX designer role.",
+        "feedback": "Emphasize your success in improving user satisfaction scores by 30% and leading design projects from concept to launch."
+    },
+    {
+        "resume_text": "Summary: Business analyst with 8 years of experience in process improvement and data-driven decision-making. Skills: SQL, Tableau, Process Mapping, Stakeholder Management. Experience: Business Analyst at Strategy Corp (2015-2023). Education: M.B.A. from JKL University.",
+        "instruction": "Tailor this resume for a senior business analyst role.",
+        "feedback": "Focus on your ability to lead complex projects, deliver actionable insights, and improve operational efficiency by 20%."
+    }
 ]
